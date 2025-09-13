@@ -1,0 +1,11 @@
+proxies:
+  - name: "🅑🅓 ➋⓿"
+    type: socks5
+    server: 1.1.1.1
+    port: 11011
+
+  - name: "Comming Soon"
+    type: socks5
+    server: 1.1.1.2
+    port: 11012
+
